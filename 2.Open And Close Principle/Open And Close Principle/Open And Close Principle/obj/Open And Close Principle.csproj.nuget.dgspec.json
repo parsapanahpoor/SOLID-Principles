@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rayamin\\Desktop\\SOLID\\SOLID-Principles\\2.Open And Close Principle\\Open And Close Principle\\Open And Close Principle\\Open And Close Principle.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rayamin\\Desktop\\SOLID\\SOLID-Principles\\2.Open And Close Principle\\Open And Close Principle\\Open And Close Principle\\Open And Close Principle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rayamin\\Desktop\\SOLID\\SOLID-Principles\\2.Open And Close Principle\\Open And Close Principle\\Open And Close Principle\\Open And Close Principle.csproj",
+        "projectName": "Open And Close Principle",
+        "projectPath": "C:\\Users\\Rayamin\\Desktop\\SOLID\\SOLID-Principles\\2.Open And Close Principle\\Open And Close Principle\\Open And Close Principle\\Open And Close Principle.csproj",
+        "packagesPath": "C:\\Users\\Rayamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rayamin\\Desktop\\SOLID\\SOLID-Principles\\2.Open And Close Principle\\Open And Close Principle\\Open And Close Principle\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rayamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
