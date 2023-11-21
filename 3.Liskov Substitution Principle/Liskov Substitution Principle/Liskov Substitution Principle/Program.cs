@@ -24,6 +24,19 @@ public class Program
 
         #region Test Correct Sample
 
+        //یادمان باشد کلاس های ابسترکت و اینترفیس را نمی توان به صورت مستقیم نمونه سازی کرد.
+        //Food Food = new Food();
+
+        Food pizza = new Pizza();
+
+        Food pasta = new Pasta();
+
+        pizza.GetFoodName();
+
+        pasta.GetFoodName();
+
+        //هیچکدام از دو متود بالایی رفتار اینترفیس والد را تغییر نداده اند بلکه در درون بدنه ی خود آن را پیاده سازی کرده اند.
+
         #endregion
     }
 }
