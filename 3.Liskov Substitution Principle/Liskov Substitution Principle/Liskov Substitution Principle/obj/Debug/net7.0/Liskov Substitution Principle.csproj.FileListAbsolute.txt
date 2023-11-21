@@ -1,0 +1,15 @@
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net7.0\Liskov Substitution Principle.exe
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net7.0\Liskov Substitution Principle.deps.json
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net7.0\Liskov Substitution Principle.runtimeconfig.json
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net7.0\Liskov Substitution Principle.dll
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\net7.0\Liskov Substitution Principle.pdb
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.csproj.AssemblyReference.cache
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.AssemblyInfoInputs.cache
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.AssemblyInfo.cs
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.dll
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\refint\Liskov Substitution Principle.dll
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.pdb
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\Liskov Substitution Principle.genruntimeconfig.cache
+C:\Users\Rayamin\Desktop\SOLID\SOLID-Principles\3.Liskov Substitution Principle\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\net7.0\ref\Liskov Substitution Principle.dll
