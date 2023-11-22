@@ -4,7 +4,9 @@ public class Program
 {
     static void Main(string[] args)
     {
-        //منظور از اصل تک مسئولیتی این است که هر کلاس شما باید تنها و تنها یک کار را انجام دهد.
+        //منظور از اصل تک مسئولیتی این است که هر ماژول شما باید تنها و تنها یک کار را انجام دهد.
+        //هر ماژول باید یک دلیل برای تغییر داشته باشد
+        //هر ماژول باید به یک اکتور خدمات بدهد 
 
         //Single Method != Sigle Responsibility
         //Single Task == Single Responsibility 
